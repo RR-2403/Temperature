@@ -33,7 +33,3 @@ A simple temperature converter web app that converts between Celsius and Fahrenh
 ## Developer
 
 Built as a simple frontend utility using HTML, CSS, and JavaScript.
-
-## Screenshots
-
-d:\VSCODE\code\Temp-conv\assets\image-1.png
